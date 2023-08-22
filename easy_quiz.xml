@@ -1,0 +1,68 @@
+<Quiz name="Questions">
+  <Q text="Care este cel mai mare ocean al lumii?" level="1" id="1">
+    <R text="Oceanul Pacific" isCorrect="true"/>
+    <R text="Oceanul Atlantic"/>
+    <R text="Oceanul Indian"/>
+    <R text="Oceanul Arctic"/>
+  </Q>
+  <Q text="Cine a scris romanul Mizerabilii?" level="1" id="2">
+    <R text="Victor Hugo" isCorrect="true"/>
+    <R text="Jules Verne"/>
+    <R text="Emile Zola"/>
+    <R text="Gustave Flaubert"/>
+  </Q>
+  <Q text="Care este capitala Spaniei?" level="1" id="3">
+    <R text="Madrid" isCorrect="true"/>
+    <R text="Barcelona"/>
+    <R text="Sevilla"/>
+    <R text="Valencia"/>
+  </Q>
+  <Q text="Cine a pictat fresca Capela Sixtină?" level="1" id="4">
+    <R text="Michelangelo" isCorrect="true"/>
+    <R text="Rafael"/>
+    <R text="Leonardo da Vinci"/>
+    <R text="Caravaggio"/>
+  </Q>
+  <Q text="Care este cel mai mare lac din Europa?" level="1" id="5">
+    <R text="Lacul Ladoga" isCorrect="true"/>
+    <R text="Lacul Baikal"/>
+    <R text="Lacul Garda"/>
+    <R text="Lacul Constanța"/>
+  </Q>
+  <Q text="Cine a scris piesa de teatru Hamlet?" level="1" id="6">
+    <R text="William Shakespeare" isCorrect="true"/>
+    <R text="Christopher Marlowe"/>
+    <R text="Ben Jonson"/>
+    <R text="John Webster"/>
+  </Q>
+  <Q text="În ce țară se află Muntele Everest?" level="1" id="7">
+    <R text="Nepal" isCorrect="true"/>
+    <R text="China"/>
+    <R text="India"/>
+    <R text="Pakistan"/>
+  </Q>
+  <Q text="Cine a compus Simfonia a V-a?" level="1" id="8">
+    <R text="Ludwig van Beethoven" isCorrect="true"/>
+    <R text="Johannes Brahms"/>
+    <R text="Wolfgang Amadeus Mozart"/>
+    <R text="Johann Sebastian Bach"/>
+  </Q>
+  <Q text="Care este capitala Canadei?" level="1" id="9">
+    <R text="Ottawa" isCorrect="true"/>
+    <R text="Toronto"/>
+    <R text="Vancouver"/>
+    <R text="Montreal"/>
+  </Q>
+  <Q text="Câte litere are alfabetul?" level="1" id="10">
+    <R text="26" isCorrect="true"/>
+    <R text="20"/>
+    <R text="30"/>
+    <R text="32"/>
+  </Q>
+  <Q text="Ce reprezintă simbolul chimic Ag în tabelul periodic?" level="2" id="11">
+    <R text="Argint" isCorrect="true"/>
+    <R text="Aur"/>
+    <R text="Argon"/>
+    <R text="Aluminiu"/>
+  </Q>
+</Quiz>

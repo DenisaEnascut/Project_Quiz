@@ -1,0 +1,62 @@
+<Quiz name="Questions">
+<Q text="Ce reprezintă simbolul chimic Ag în tabelul periodic?" level="2" id="1">
+    <R text="Argint" isCorrect="true"/>
+    <R text="Aur"/>
+    <R text="Argon"/>
+    <R text="Aluminiu"/>
+  </Q>
+  <Q text="Cine a scris romanul Război și pace?" level="2" id="2">
+    <R text="Lev Tolstoi" isCorrect="true"/>
+    <R text="Fiodor Dostoievski"/>
+    <R text="Ivan Turgheniev"/>
+    <R text="Mihail Bulgakov"/>
+  </Q>
+  <Q text="Care este capitala Republicii Cehe?" level="2" id="3">
+    <R text="Praga" isCorrect="true"/>
+    <R text="Varșovia"/>
+    <R text="Budapesta"/>
+    <R text="Bratislava"/>
+  </Q>
+  <Q text="Care este cel mai lung fluviu din lume?" level="2" id="4">
+    <R text="Nilul" />
+    <R text="Amazonul"/>
+    <R text="Mississippi"/>
+    <R text="Yangtze"/>
+  </Q>
+  <Q text="Cine a scris romanul Portretul lui Dorian Gray?" level="2" id="5">
+    <R text="Oscar Wilde" isCorrect="true"/>
+    <R text="Edgar Allan Poe"/>
+    <R text="Hermann Hesse"/>
+    <R text="Franz Kafka"/>
+  </Q>
+  <Q text="Ce reprezintă sigla NASA?" level="2" id="6">
+    <R text="National Aeronautics and Space Administration" isCorrect="true"/>
+    <R text="North American Space Agency"/>
+    <R text="National American Space Association"/>
+    <R text="New Age Space Alliance"/>
+  </Q>
+  <Q text="Cine a scris romanul Ciuma?" level="2" id="7">
+    <R text="Albert Camus" isCorrect="true"/>
+    <R text="Jean-Paul Sartre"/>
+    <R text="Franz Kafka"/>
+    <R text="Marcel Proust"/>
+  </Q>
+  <Q text="Care este capitala Australiei?" level="2" id="8">
+    <R text="Canberra" isCorrect="true"/>
+    <R text="Melbourne"/>
+    <R text="Sydney"/>
+    <R text="Brisbane"/>
+  </Q>
+  <Q text="În ce an a avut loc Marea Unire a României?" level="2" id="9">
+    <R text="1918" isCorrect="true"/>
+    <R text="1867"/>
+    <R text="1945"/>
+    <R text="1989"/>
+  </Q>
+  <Q text="Cine a inventat becul cu filament?" level="2" id="10">
+    <R text="Thomas Edison" isCorrect="true"/>
+    <R text="Nikola Tesla"/>
+    <R text="Alexander Graham Bell"/>
+    <R text="Galileo Galilei"/>
+  </Q>
+</Quiz>

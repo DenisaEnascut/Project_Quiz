@@ -1,0 +1,184 @@
+﻿<Quiz name="Questions">
+  <Q text="Care este cel mai mare ocean al lumii?" level="1" id="1" type="single">
+    <R text="Oceanul Pacific" isCorrect="true"/>
+    <R text="Oceanul Atlantic"/>
+    <R text="Oceanul Indian"/>
+    <R text="Oceanul Arctic"/>
+  </Q>
+  <Q text="Cine a scris romanul Mizerabilii?" level="1" id="2"  type="single">
+    <R text="Victor Hugo" isCorrect="true"/>
+    <R text="Jules Verne"/>
+    <R text="Emile Zola"/>
+    <R text="Gustave Flaubert"/>
+  </Q>
+  <Q text="Care este capitala Spaniei?" level="1" id="3"  type="single">
+    <R text="Madrid" isCorrect="true"/>
+    <R text="Barcelona"/>
+    <R text="Sevilla"/>
+    <R text="Valencia"/>
+  </Q>
+  <Q text="Cine a pictat fresca Capela Sixtină?" level="1" id="4"  type="single">
+    <R text="Michelangelo" isCorrect="true"/>
+    <R text="Rafael"/>
+    <R text="Leonardo da Vinci"/>
+    <R text="Caravaggio"/>
+  </Q>
+  <Q text="Care este capitala Franței?" level="1" id="5"  type="single">
+    <R text="Paris" isCorrect="true"/>
+    <R text="Londra"/>
+    <R text="Madrid"/>
+    <R text="Roma"/>
+  <Q text="Cine a scris piesa de teatru Hamlet?" level="1" id="6"  type="single">
+    <R text="William Shakespeare" isCorrect="true"/>
+    <R text="Christopher Marlowe"/>
+    <R text="Ben Jonson"/>
+    <R text="John Webster"/>
+  </Q>
+  <Q text="În ce țară se află Muntele Everest?" level="1" id="7" type="single">
+    <R text="Nepal" isCorrect="true"/>
+    <R text="China"/>
+    <R text="India"/>
+    <R text="Pakistan"/>
+  </Q>
+  <Q text="Cine a compus Simfonia a V-a?" level="1" id="8"  type="single">
+    <R text="Ludwig van Beethoven" isCorrect="true"/>
+    <R text="Johannes Brahms"/>
+    <R text="Wolfgang Amadeus Mozart"/>
+    <R text="Johann Sebastian Bach"/>
+  </Q>
+  <Q text="Care este capitala Canadei?" level="1" id="9"  type="single">
+    <R text="Ottawa" isCorrect="true"/>
+    <R text="Toronto"/>
+    <R text="Vancouver"/>
+    <R text="Montreal"/>
+  </Q>
+  <Q text="Câte litere are alfabetul?" level="1" id="10"  type="single">
+    <R text="26" isCorrect="true"/>
+    <R text="20"/>
+    <R text="30"/>
+    <R text="32"/>
+  </Q>
+    <Q text="Care dintre următoarele țări au ca limba oficială engleza?" level="2" id="11"  type="multiple">
+      <R text="Statele Unite ale Americii" isCorrect="true"/>
+      <R text="Franța"/>
+      <R text="Germania"/>
+      <R text="Regatul Unit" isCorrect="true"/>
+      <R text="Spania"/>
+      <R text="China"/>
+    </Q>
+  </Q>
+  <Q text="Cine a scris romanul Război și pace?" level="2" id="12" type="single">
+    <R text="Lev Tolstoi" isCorrect="true"/>
+    <R text="Fiodor Dostoievski"/>
+    <R text="Ivan Turgheniev"/>
+    <R text="Mihail Bulgakov"/>
+  </Q>
+  <Q text="Ce este blockchain-ul?" level="2" id="13"  type="single">
+    <R text="O tehnologie de stocare și transmitere a datelor" isCorrect="true"/>
+    <R text="Un model matematic de calcul"/>
+    <R text="Un nou tip de combustibil"/>
+    <R text="O tehnologie de scanare a retinei"/>
+  </Q>
+  <Q text="Ce mare se află între Italia și Balcani?" level="2" id="14"  type="single">
+    <R text="Marea Adriatică" isCorrect="true"/>
+    <R text="Marea Egee"/>
+    <R text="Marea Mediterană"/>
+    <R text="Marea Neagră"/>
+  </Q>
+  <Q text="Cine a scris romanul Portretul lui Dorian Gray?" level="2" id="15" type="single">
+    <R text="Oscar Wilde" isCorrect="true"/>
+    <R text="Edgar Allan Poe"/>
+    <R text="Hermann Hesse"/>
+    <R text="Franz Kafka"/>
+  </Q>
+  <Q text="Ce reprezintă sigla NASA?" level="2" id="16" type="single">
+    <R text="National Aeronautics and Space Administration" isCorrect="true"/>
+    <R text="North American Space Agency"/>
+    <R text="National American Space Association"/>
+    <R text="New Age Space Alliance"/>
+  </Q>
+  <Q text="Cine a scris romanul Ciuma?" level="2" id="17" type="single">
+    <R text="Albert Camus" isCorrect="true"/>
+    <R text="Jean-Paul Sartre"/>
+    <R text="Franz Kafka"/>
+    <R text="Marcel Proust"/>
+  </Q>
+  <Q text="În ce an a avut loc căderea Zidului Berlinului?" level="2" id="18" type="single">
+    <R text="1989" isCorrect="true"/>
+    <R text="1987"/>
+    <R text="1991"/>
+    <R text="1993"/>
+  </Q>
+  <Q text="În ce an a avut loc Marea Unire a României?" level="2" id="19" type="single">
+    <R text="1918" isCorrect="true"/>
+    <R text="1867"/>
+    <R text="1945"/>
+    <R text="1989"/>
+  </Q>
+  <Q text="Cine a inventat becul cu filament?" level="2" id="20" type="single">
+    <R text="Thomas Edison" isCorrect="true"/>
+    <R text="Nikola Tesla"/>
+    <R text="Alexander Graham Bell"/>
+    <R text="Galileo Galilei"/>
+  </Q>
+  <Q text="În ce an a avut loc Revoluția Franceză?" level="3" id="21" type="single">
+    <R text="1789" isCorrect="true"/>
+    <R text="1830"/>
+    <R text="1848"/>
+    <R text="1905"/>
+  </Q>
+  <Q text="Care este capitala Kazakhstanului?" level="3" id="22" type="single">
+    <R text="Nur-Sultan" isCorrect="true"/>
+    <R text="Astana"/>
+    <R text="Almaty"/>
+    <R text="Kyzylorda"/>
+  </Q>
+  <Q text="Cine a realizat primul zbor cu un avion motorizat?" level="3" id="23" type="single">
+    <R text="Orville Wright" isCorrect="true"/>
+    <R text="Wilbur Wright"/>
+    <R text="Amelia Earhart"/>
+    <R text="Charles Lindbergh"/>
+  </Q>
+  <Q text="Care este cel mai înalt vârf de pe teritoriul României?" level="3" id="24" type="single">
+    <R text="Vârful Moldoveanu" isCorrect="true"/>
+    <R text="Vârful Omu"/>
+    <R text="Vârful Negoiu"/>
+    <R text="Vârful Parângu Mare"/>
+  </Q>
+  <Q text="Ce reprezintă constanta lui Avogadro?" level="3" id="25" type="single">
+    <R text="Numărul de particule dintr-un mol" isCorrect="true"/>
+    <R text="Viteza luminii în vid"/>
+    <R text="Accelerarea gravitațională"/>
+    <R text="Energia cinetică medie a particulelor dintr-un gaz"/>
+  </Q>
+  <Q text="Cine a descoperit penicilina?" level="3" id="26" type="single">
+    <R text="Alexander Fleming" isCorrect="true"/>
+    <R text="Louis Pasteur"/>
+    <R text="Robert Koch"/>
+    <R text="Paul Ehrlich"/>
+  </Q>
+  <Q text="În ce an a fost inaugurat Canalul Panama?" level="3" id="27" type="single">
+    <R text="1914" isCorrect="true"/>
+    <R text="1899"/>
+    <R text="1922"/>
+    <R text="1940"/>
+  </Q>
+  <Q text="Care a fost numele primului satelit artificial lansat în spațiu?" level="3" id="28" type="single">
+    <R text="Sputnik 1" isCorrect="true"/>
+    <R text="Explorer 1"/>
+    <R text="Vanguard 1"/>
+    <R text="Luna 1"/>
+  </Q>
+  <Q text="Cine a realizat prima fotografie a unei găuri negre?" level="3" id="29" type="single">
+    <R text="Katie Bouman" isCorrect="true"/>
+    <R text="Stephen Hawking"/>
+    <R text="Carl Sagan"/>
+    <R text="Neil deGrasse Tyson"/>
+  </Q>
+  <Q text="Ce este efectul Doppler?" level="3" id="30"  type="single">
+    <R text="O schimbare a frecvenței percepute a undelor sonore sau luminoase" isCorrect="true"/>
+    <R text="O difracție a undelor electromagnetice"/>
+    <R text="O interferență între două unde de aceeași frecvență"/>
+    <R text="O rezonanță între două obiecte care vibrează la aceeași frecvență"/>
+  </Q>
+</Quiz>

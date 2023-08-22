@@ -1,0 +1,62 @@
+<Quiz name="Questions">  
+  <Q text="În ce an a avut loc Revoluția Franceză?" level="3" id="1">
+    <R text="1789" isCorrect="true"/>
+    <R text="1830"/>
+    <R text="1848"/>
+    <R text="1905"/>
+  </Q>
+  <Q text="Care este capitala Kazakhstanului?" level="3" id="2">
+    <R text="Nur-Sultan" isCorrect="true"/>
+    <R text="Astana"/>
+    <R text="Almaty"/>
+    <R text="Kyzylorda"/>
+  </Q>
+  <Q text="Ce este formula chimică a apei grele?" level="3" id="3">
+    <R text="D2O" isCorrect="true"/>
+    <R text="H2O2"/>
+    <R text="HO2"/>
+    <R text="DOH"/>
+  </Q>
+  <Q text="Care este cel mai înalt vârf de pe teritoriul României?" level="3" id="4">
+    <R text="Vârful Moldoveanu" isCorrect="true"/>
+    <R text="Vârful Omu"/>
+    <R text="Vârful Negoiu"/>
+    <R text="Vârful Parângu Mare"/>
+  </Q>
+  <Q text="Ce reprezintă constanta lui Avogadro?" level="3" id="5">
+    <R text="Numărul de particule dintr-un mol" isCorrect="true"/>
+    <R text="Viteza luminii în vid"/>
+    <R text="Accelerarea gravitațională"/>
+    <R text="Energia cinetică medie a particulelor dintr-un gaz"/>
+  </Q>
+  <Q text="Cine a scris poezia The Waste Land?" level="3" id="6">
+    <R text="T.S. Eliot" isCorrect="true"/>
+    <R text="W.H. Auden"/>
+    <R text="Ezra Pound"/>
+    <R text="Robert Frost"/>
+  </Q>
+  <Q text="În ce an a fost inaugurat Canalul Panama?" level="3" id="7">
+    <R text="1914" isCorrect="true"/>
+    <R text="1899"/>
+    <R text="1922"/>
+    <R text="1940"/>
+  </Q>
+  <Q text="Cine a compus Simfonia a 9-a?" level="3" id="8">
+    <R text="Ludwig van Beethoven" isCorrect="true"/>
+    <R text="Wolfgang Amadeus Mozart"/>
+    <R text="Johann Sebastian Bach"/>
+    <R text="Franz Schubert"/>
+  </Q>
+  <Q text="Cine a scris romanul Ulysses?" level="3" id="9">
+    <R text="James Joyce" isCorrect="true"/>
+    <R text="Virginia Woolf"/>
+    <R text="Ernest Hemingway"/>
+    <R text="William Faulkner"/>
+  </Q>
+  <Q text="Care este cel mai mare deșert al lumii?" level="3" id="10">
+    <R text="Deșertul Antarctica"/>
+    <R text="Deșertul Sahara" isCorrect="true"/>
+    <R text="Deșertul Gobi"/>
+    <R text="Deșertul Atacama"/>
+  </Q>
+</Quiz>
