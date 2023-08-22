@@ -35,11 +35,3 @@ You can customize the quiz content easily:
   Set the attributes for each question, including text, level, id, and type.
   For multiple-choice questions, indicate the correct answer using the isCorrect attribute.
   
-File Structure
-The project structure is as follows:
-QuizApplication/
-├── Quiz.xml              # Contains quiz questions and options
-├── MainWindow.xaml.cs   # Main application logic
-├── Quiz.xaml.cs          # Quiz window and question display
-├── Finish.xaml.cs        # Finish window with user results
-├── ...
