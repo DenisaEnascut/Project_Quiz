@@ -37,7 +37,4 @@ Possible Additions and Improvements
   Using a database to store questions and answers for scalability and content management
   Thorough testing of the application to ensure correct functionality in all scenarios
 
-Final Remarks
-
-  This quiz application can be further developed and improved to offer an interactive and educational experience to users. Make sure to implement best development practices and consider user feedback to optimize and enhance both functionality and design of the application.
 
