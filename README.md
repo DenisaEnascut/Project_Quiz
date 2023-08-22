@@ -1,22 +1,4 @@
 # Project_Quiz
-An interactive quiz application built using WPF that allows users to test their knowledge on various topics by answering multiple-choice questions.
-
-Table of Contents
-Introduction
-Features
-    User-Friendly Interface
-    Dynamic Question Loading
-    Immediate Feedback
-    Performance Summary
-Getting Started
-    Prerequisites
-    Installation
-Usage
-Customization
-File Structure
-Contributing
-License
-
 
 Introduction
 The Quiz Application is a Windows Presentation Foundation (WPF) application designed to provide an interactive quiz experience for users. With dynamic question loading and immediate feedback, users can enhance their knowledge while having fun.
